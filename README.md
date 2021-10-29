@@ -33,11 +33,11 @@ Ola, meu nome é [Luiscaputo ](https://blog.abhisheknaidu.tech/), apaixonado por
   - Atualmente trabalho com Javascript, Typescript, NodeJS, Docker, TDD, PHP e SQL databases;
 </p>
 📈 <b>Meu Status no GitHub</b>
-<p align="justify">
+<p align="center">
   <a href="https://github.com/luiscaputo?tab=repositories">
-    <img  width="370" height="auto" alt="Wiliam's github stats" 
+    <img  width="500" height="auto" alt="Wiliam's github stats" 
           src="https://github-readme-stats.vercel.app/api?username=luiscaputo&show_icons=true&theme=algolia&count_private=true" />
-    <img width:"150em" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiscaputo&layout=compact&langs_count=7&theme=algolia"/>
+    <!--<img width:"150em" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiscaputo&layout=compact&langs_count=7&theme=algolia"/>-->
   </a>
 </p>
 
