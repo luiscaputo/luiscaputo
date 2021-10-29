@@ -67,5 +67,5 @@ Se você gosta do que eu faço, talvez considere me comprar um café / chá 🥺
 
 🚧 **My Commints like Snack:**
 <!-- works -->
-![Snake animation](https://github.com/luiscaputo/luiscaputo/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/luiscaputo/luiscaputo/blob/output/github-contribution-grid-snake.svg)
 <!-- works -->
