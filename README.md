@@ -62,5 +62,7 @@ Ola, meu nome é [Luiscaputo ](https://blog.abhisheknaidu.tech/), apaixonado por
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 Se você gosta do que eu faço, talvez considere me comprar um café / chá 🥺👉👈
+
 <a href="https://linkedin.com/in/luis-caputo-584a3315a/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
   ![Snake animation](https://github.com/luiscaputo/luiscaputo/blob/output/github-contribution-grid-snake.svg)
