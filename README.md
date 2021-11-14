@@ -14,25 +14,25 @@
 
 <br />
 
-Ola, meu nome é [Luiscaputo ](https://blog.abhisheknaidu.tech/), apaixonado por tecnologias e desenvolvedor de sistemas freelancer. Minha paixão por desenvolvimento foca-se no backEnd e na criação de infraestruturas até o desenvolvimento de interfaces da Hora. Tenho muito cuidado com a experiência, arquitetura e qualidade do código das coisas que construo.
+Hello, my name is [Luiscaputo] (https://blog.abhisheknaidu.tech/), passionate about technologies and freelance systems developer. My passion for development is focused on the backEnd and on the creation of infrastructures until the development of Hora's interfaces. I'm very careful about the experience, architecture, and code quality of the things I build.
   
-- 💬 Pergunta-me sobre qualquer coisa, Eu ficarei feliz em ajudar;
-- 📫 Como me encontrar: [@luiscaputojr1](https://twitter.com/LuisCaputojr1);
+- 💬 Ask me about anything, I'll be happy to help;
+- 📫 How to find me: [@luiscaputojr1](https://twitter.com/LuisCaputojr1);
 - 📝 [Resume]
 
 <img style="margin-right: 160px" align='right' src="https://media.giphy.com/media/TucS1JF3urHJI9mlGh/giphy.gif" width='220'>
 
 ### This is very crazy <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="30">
 <p style="margin-right: 90px"> 
-  - Sou apaixonado por tecnologia e tudo o que ela oferece! É muito massa.;
+  - I'm passionate about technology and everything it offers! It's very cool.;
 </p>
 <p style="margin-left: 20px"> 
-  - Sou fascinado por Linux || Ubuntu, a cada dia uma distro diferente 🤪; 
+  - I'm fascinated by Linux || Ubuntu, every day a different distro 🤪; 
 </p>
 <p style="margin-left: 20px"> 
-  - Atualmente trabalho com Javascript, Typescript, NodeJS, Docker, TDD, PHP e SQL databases;
+  - I currently work with Javascript, Typescript, NodeJS, Docker, TDD, PHP and SQL databases;
 </p>
-📈 <b>Meu Status no GitHub</b>
+📈 <b>My Status on GitHub</b>
 <p align="center">
   <a href="https://github.com/luiscaputo?tab=repositories">
     <img  width="500" height="auto" alt="Wiliam's github stats" 
@@ -61,7 +61,7 @@ Ola, meu nome é [Luiscaputo ](https://blog.abhisheknaidu.tech/), apaixonado por
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-Se você gosta do que eu faço, talvez considere me comprar um café / chá 🥺👉👈
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://linkedin.com/in/luis-caputo-584a3315a/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
